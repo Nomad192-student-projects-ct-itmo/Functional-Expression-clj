@@ -1,4 +1,4 @@
-# Functional-Expression-clj
+# Functional Expression in Clojure
 
 Обьектные выражения на Clojure:\
 1 Часть - Функциональные выражения (текущая)\
