@@ -2,7 +2,7 @@
 
 Обьектные выражения на Clojure:\
 1 Часть - Функциональные выражения (текущая)\
-2 Часть - [Объектные выражения](https://github.com/Nomad192/Object-Expression-clj)
+2 Часть - [Объектные выражения](https://github.com/Nomad192-student-projects-ct-itmo/Object-Expression-clj)
 
 ## Функциональные выражения на Clojure
 
